@@ -1,2 +1,2 @@
 # Capgeminiproject
-This is training .
+This is training by capgemini.
